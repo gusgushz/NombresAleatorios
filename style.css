@@ -1,0 +1,48 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+nav {
+    background-color: rgb(0, 113, 113);
+    padding: 1.5%;
+    text-align: center;
+}
+.navegacion {
+    color: rgb(255, 255, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.h3 {
+    margin: 3%;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+}
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box > div {
+    width: 75%;
+}
+button {
+    padding: .5%;
+    border-radius: 15px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    width: 150px;
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.5);
+}
+
+.Nombre {
+    padding: 1%;
+}
+.alert {
+    background-color: rgb(126, 250, 208);
+    border-radius: 10px;
+    
+    padding: 1%;
+}
+.contenidoscript {
+    font-family: verdana;
+}
